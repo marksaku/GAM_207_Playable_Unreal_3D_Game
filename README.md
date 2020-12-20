@@ -19,7 +19,7 @@ Horse riding should be involved throughout the game. And realism, is an importan
 Points/Scoring: no points will be tabulated, but game will measure health, confidence and “the void”. The void is a place where the player has heightened concentration and can aim and attack with more accuracy.
 Money: money can be earned along the way, for playing in bars/taverns or working for villagers. The money can be used to rest in an INN, or to purchase food, weapons, or supplies.
 
-# Immersion: Articulate your approach to which elements of your game will contribute to user immersion (and how).
+# Immersion: Articulate the approach to which elements of this game will contribute to user immersion (and how).
 The game was first inspired by a behind the game like Book chapters. The first level will open up with a young boy in his village doing chores and interacting with his father. In the night there is an attack on the village, which leads to the title screen and beginning of the first quest.
 
 The setting takes place with rustic medieval villages old growth forests, haunted lost cities and mountain caves. Sound and art will help create the setting to bring the Player into the storyline, the way one’s imagination does with a good book. Atmospheric sounds and unexpected surprise attacks should give the Player the sensation that there is a dark force following him along his journey.  The game should use both reflexive attention and executive attention to help keep the Player immersed in the storyline and gameplay.
